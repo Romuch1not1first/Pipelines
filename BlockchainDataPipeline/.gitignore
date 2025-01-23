@@ -1,0 +1,6 @@
+__pycache__
+env
+.env
+session.session
+session_journal.session-journal
+telegram_bot.log
